@@ -5,6 +5,16 @@ body{
     font-size: 1.3em;
     font-style: normal;
 }
+
+ hr{
+     padding-top: 5px;
+     padding-bottom: 5px;
+   border-style: dotted none none none ;
+   width: 10%;
+   border-width: 5px;
+   color:gray;
+ }
+
 h1{
     margin: 0;
     font-family: 'Shadows Into Light', cursive;
